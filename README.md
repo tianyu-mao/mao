@@ -1,2 +1,2 @@
 # mao
-study
+学习
